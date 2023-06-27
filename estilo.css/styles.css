@@ -1,0 +1,24 @@
+.container {
+    
+     background-color: #04eccace; background-position: center;  width: 1210pxpx; height: 54px; border-radius: 20px; 
+     padding-bottom: 4px;  border: solid 2px rgb(11, 11, 32);  text-align: center; justify-content: space-evenly; 
+     
+}
+.responsive {
+     border-radius: 10px;
+     border: solid 2px #000000;
+     max-width: 100%;
+     height: auto;
+
+}
+.responsive1 {
+
+     border-radius: 10px;
+     border: solid 2px #000000;
+     max-width: 100%;
+     height: auto;
+}
+a:link {
+     text-decoration: none;
+}
+

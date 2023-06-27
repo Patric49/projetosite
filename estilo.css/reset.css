@@ -1,0 +1,16 @@
+* {
+ 
+ box-sizing: border-box;
+ margin-block: 4px;
+ margin-top: 1px;
+ margin-bottom: 4px;
+
+}
+body {
+
+ font-family: cursive;
+ font-size: 14px;
+ text-decoration: none;
+ background-color: rgba(12, 69, 104, 0.795);
+ 
+}
