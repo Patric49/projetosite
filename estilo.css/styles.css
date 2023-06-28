@@ -7,8 +7,9 @@
 .responsive {
      border-radius: 10px;
      border: solid 2px #000000;
-     width: 220%; 
-     height: 220%;
+     max-width: 100%;
+     height: auto;
+
      
 
 }
