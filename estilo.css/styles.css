@@ -23,4 +23,6 @@
 a:link {
      text-decoration: none;
 }
-
+@media screen and (max-width: 480px) {
+     max-width; 100%;
+}
