@@ -7,14 +7,14 @@
 .responsive {
      border-radius: 20px;
      border: solid 2px #000000;
-     max-width: 100%;
+     width: 280px;
      height: 280px;
 }
 .responsive1 {
 
      border-radius: 20px;
      border: solid 2px #000000;
-     max-width: 100%;
+     width: 220px;
      height: 220px;
      
 }
