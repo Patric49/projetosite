@@ -2,8 +2,9 @@
     
      background-color: #04eccace; background-position: center;  width: 1210px; height: 54px; border-radius: 20px; 
      padding-bottom: 4px;  border: solid 2px rgb(11, 11, 32);  text-align: center; justify-content: space-evenly; 
-     
-}
+    
+@media screen and (min-width: 481px) and (max-width: 768px) {     
+
 .responsive {
      border-radius: 10px;
      border: solid 2px #000000;
@@ -22,10 +23,7 @@
 }
 a:link {
      text-decoration: none;
-}
+} }  
 
-@media screen and (min-width: 481px) and (max-width: 768px) {
-    display: none;
-}
 
 
