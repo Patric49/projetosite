@@ -7,8 +7,8 @@
 .responsive {
      border-radius: 10px;
      border: solid 2px #000000;
-     width: 300%; 
-     height: 300%;
+     width: 240%; 
+     height: 240%;
      
 
 }
@@ -16,8 +16,8 @@
 
      border-radius: 10px;
      border: solid 2px #000000;
-     width: 250%;
-     height: 250%;
+     width: 200%;
+     height: 200%;
      
 }
 a:link {
