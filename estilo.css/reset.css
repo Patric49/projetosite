@@ -12,4 +12,10 @@ body {
  background-color: rgba(12, 69, 104, 0.795);
  
 }
-
+@media screen and (min-width: 768px){
+     .container{
+         width: 100%;
+         flex-direction: column;
+     }
+ 
+}
