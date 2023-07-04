@@ -3,10 +3,7 @@
  box-sizing: border-box;
  margin-top: 2px;
  margin-bottom: 4px;
- @media screen and (min-width: 768px){
-     width: 100%;
-     flex-direction: column;
-}
+
 }
 body {
 
