@@ -7,13 +7,13 @@
 .arredondado {
       
     border-radius: 20px;
-     display: flex;
+     
 
 }
 .arredondado1 {
 
-    border-radius: 50px;
-     display: flex;
+    border-radius: 100px;
+     
 
 }
 a:link {
