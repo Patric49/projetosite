@@ -17,8 +17,11 @@ body {
         display:none;
     }
 
-menu {
+.responsive {
         display:block;
 }
-
+ 
+.responsive1 {
+        display:block;
+}
 }
