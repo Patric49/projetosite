@@ -32,19 +32,11 @@ a:link {
     }
 
 .responsive {
-        display:inline-block;
+        display:flex;
 }
  
 .responsive1 {
-        display:inline-block;
-}
- 
- .material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 1,
-  'wght' 600,
-  'GRAD' 0,
-  'opsz' 48
+        display:flex;
 }
 }
 
