@@ -13,11 +13,12 @@
      crossorigin="anonymous"></script>
       </head>	  
   
-<body onresize="mudoutamanho()">
+<body>
 <marquee bgcolor=#ffffff direction=right height=20 ><b>#&nbspCONTE&Uacute;DO ENVIADO POR E-MAIL</b>&nbsp&nbsp<b></b>&nbsp&nbsp<b> #&nbspACESSE OS LINKS NA P&Aacute;GINA 2!</b></marquee>  
 <body background="ciano">
 <strong>P&aacute;gina 2,</strong>
 <a href="pagina2.html">clique aqui.</a>	
+	<i id="burguer" class="material-symbols-outlined" onclick="clickmenu()">menu</i> 
             
 
 <div class="container" > 
@@ -63,17 +64,16 @@ transformar o tempo livre em uma fonte de renda extra e, até alcan&ccedil;ar a 
 					   <body link="white" vlink="white" alink="white">
  <a href="https://www.cacaushow.com.br/" target=index.html><strong><h3><b>🤑 RENDA EXTRA 🤑</b></h3></strong></a>
 			                                         </div>
-
-  
-</body>
+ 
 <script>
-function "mudoutamanho()"{
-	if (window.innerwidth >= 768){
-		itens.style.display = "column"
-	} else{
-		itens.style.display = "none"
-	}
-}
+function clickmenu(){
+      if (itens.style.display == "block"){
+          itens.style.display = "none"
+      } else {
+          itens.style.display = "block"
+      }
+ 
+      } 
 </script>
-  
+</body>  
 </html>
