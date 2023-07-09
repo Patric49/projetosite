@@ -18,11 +18,11 @@ body {
     }
 
 .responsive {
-        display:block;
+        display:inline-block;
 }
  
 .responsive1 {
-        display:block;
+        display:inline-block;
 }
  
  .material-symbols-outlined {
