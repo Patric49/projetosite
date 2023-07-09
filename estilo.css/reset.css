@@ -24,4 +24,11 @@ body {
 .responsive1 {
         display:block;
 }
+ .material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 600,
+  'GRAD' 0,
+  'opsz' 48
+}
 }
