@@ -12,3 +12,13 @@ body {
  background-color: rgba(12, 69, 104, 0.795);
  
 }
+@media screen and (min-width: 768px) {
+    i#burguer {
+        display:none;
+    }
+
+menu {
+        display:block;
+}
+
+}
