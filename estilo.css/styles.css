@@ -26,5 +26,25 @@
 a:link {
      text-decoration: none;
 }  
+@media screen and (min-width: 768px) {
+    i#burguer {
+        display:none;
+    }
 
+.responsive {
+        display:inline-block;
+}
+ 
+.responsive1 {
+        display:inline-block;
+}
+ 
+ .material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 600,
+  'GRAD' 0,
+  'opsz' 48
+}
+}
 
