@@ -26,8 +26,8 @@
 a:link {
      text-decoration: none;
 }  
-@media screen and (min-width: 768px) {
-    i#burguer {
+@media screen and (min-width: <=768px) {
+    #itens {
         display:none;
     }
 
