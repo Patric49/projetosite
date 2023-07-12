@@ -19,14 +19,20 @@
      height: auto;
      display: grid;
      margin-top: 2px;
-}
+
 }
 a:link {
      text-decoration: none;
 }  
-@media screen and (min-width: <= 768px) {
-    #itens {
-        display:inline-block;
-    }
+main {
+     width: 58vw;
+     background-color: rgba(240, 230, 230, 0.616);
+     margin: auto;
+     margin-top: 0px;
+     padding: 3px;
+     border-radius: 30px;
+     border: solid 2px rgb(11, 11, 32);
+     justify-content: center;
 }
+
 
