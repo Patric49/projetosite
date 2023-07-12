@@ -1,21 +1,21 @@
 .item {
     
-    background-color: #04eccace; background-position: center;  width: 1220px; height: 55px; border-radius: 20px; 
-    padding-bottom: 4px;  border: solid 2px rgb(11, 11, 31);  text-align: center; justify-content: space-evenly; 
+    background-color: #04eccace; background-position: center;  width: 1220px; height: 60px; border-radius: 20px; 
+    padding-bottom: 3px;  border: solid 2px rgb(11, 11, 31);  text-align: center; justify-content: space-evenly; 
     
 }
 .arredondado {
       
     border-radius: 20px;
-     
+    border: solid 1px #000000;
+} 
 
-}
 .arredondado1 {
 
     border-radius: 100px;
-     
-
+     border: solid 1px #000000;
 }
+     
 a:link {
     text-decoration: none;
 }
