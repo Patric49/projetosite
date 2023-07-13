@@ -56,3 +56,27 @@ main {
       display: none;
 }
 }
+
+@media (max-width: 630px) {
+     .responsive {
+     width: 0%;
+     display: none;
+   } 
+     .responsive1 {
+     width: 100%;
+     height: 50%;
+     display: block;
+
+   }
+     .container {
+     width: 100%;
+     height: 80px;
+     font-display: 50%;    
+   }
+     .container2 {
+      display:none;
+   }
+main {
+      display: none;
+}
+}
