@@ -20,5 +20,14 @@ a:link {
     text-decoration: none;
 }
 
+@media (max-width: 767px) {
 
+    .item {
+        width: 100%;
+        font-display: 50%;
+        height: 60px;
+        
+    }
+     
+}
 
