@@ -29,7 +29,8 @@ a:link {
         font-size: 100%;    
     }
     .arredondado {
-        width: 75%;   
+        width: 65%;
+        align-itens: center;
     }
      
 } 
@@ -43,7 +44,8 @@ a:link {
         font-size: 100%;
     }
     .arredondado {
-         width: 75%;
+         width: 65%;
+         align-itens: center;
     }
      
 }
