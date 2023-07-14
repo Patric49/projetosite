@@ -26,6 +26,7 @@ a:link {
         width: 100%;
         font-display: 50%;
         height: 60px;
+        text-align: left;
         
     }
      
@@ -37,7 +38,7 @@ a:link {
         width: 100%;
         font-display: 50%;
         height: 60px;
-        
+       text-align: left; 
     }
      
 }
