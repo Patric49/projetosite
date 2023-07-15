@@ -32,7 +32,8 @@ main {
      border-radius: 30px;
      border: solid 2px rgb(11, 11, 32);
      justify-content: center;
-}
+} 
+
 @media (max-width: 767px) {
      .responsive {
      width: 0%;
