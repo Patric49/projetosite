@@ -21,7 +21,7 @@ a:link {
     text-decoration: none;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
 
     .item {
         width: 100%;
@@ -31,6 +31,7 @@ a:link {
     }
     .arredondado {
         width: 60%;
+        display: block;
         justify-content: space-evenly;
     }
      
@@ -46,6 +47,7 @@ a:link {
     }
     .arredondado {
          width: 60%;
+         display: block;
          justify-content: space-evenly;
     }
      
