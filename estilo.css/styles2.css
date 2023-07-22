@@ -30,6 +30,11 @@ a:link {
         height: 80px;
         font-size: 100%;    
     }
+    
+     .normal {
+        word-break: normal;
+    }
+    
     .arredondado {
         width: 60%;
         display: block;
@@ -41,12 +46,16 @@ a:link {
 @media (max-width: 630px) {
 
     .item {
-        word-break:normal;
         width: 100%;
         font-display: 50%;
         height: 80px;
         font-size: 100%;
     }
+    
+    .normal {
+        word-break: normal;
+    }
+    
     .arredondado {
          width: 60%;
          display: block;
