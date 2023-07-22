@@ -34,7 +34,7 @@ main {
      justify-content: center;
 } 
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
      .responsive {
      width: 0%;
      display: none;
@@ -58,7 +58,7 @@ main {
 }
 }
 
-@media (max-width: 630px) {
+@media (max-width: 600px) {
      .responsive {
      width: 0%;
      display: none;
