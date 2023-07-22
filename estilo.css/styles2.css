@@ -24,7 +24,7 @@ a:link {
 @media (max-width: 768px) {
 
     .item {
-        word-break:100%;
+        word-break:normal;
         width: 100%;
         font-display: 50%;
         height: 80px;
@@ -41,6 +41,7 @@ a:link {
 @media (max-width: 630px) {
 
     .item {
+        word-break:normal;
         width: 100%;
         font-display: 50%;
         height: 80px;
