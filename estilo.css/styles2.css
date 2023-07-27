@@ -32,14 +32,14 @@ a:link {
     }
     
     .arredondado {
-        width: 100%;
+        width: 98%;
         display: block;
         justify-content: space-evenly;
     }
      
 } 
 
-@media (max-width: 628px) {
+@media (max-width: 768px) {
 
     .item {
         width: 100%;
@@ -50,7 +50,7 @@ a:link {
     
     
     .arredondado {
-         width: 100%;
+         width: 98%;
          display: block;
          justify-content: space-evenly;
     }
