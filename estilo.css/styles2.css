@@ -33,7 +33,7 @@ a:link {
     
     .arredondado {
         width: 100%;
-        margin-right: 1.6px;
+        margin-right: 2px;
         display: block;
         overflow-wrap:break-word;
         justify-content: space-evenly;
@@ -53,7 +53,7 @@ a:link {
     
     .arredondado {
          width: 100%;
-         margin-right: 1.6px;
+         margin-right: 2px;
          display: block;
          justify-content: space-evenly;
     }
