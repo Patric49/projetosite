@@ -33,6 +33,7 @@ a:link {
     
     .arredondado {
         width: 100%;
+        margin-right: 2px;
         display: block;
         justify-content: space-evenly;
         column-gap: normal;
@@ -52,6 +53,7 @@ a:link {
     
     .arredondado {
         width: 100%;
+        margin-right: 2px;
         display: block;
         justify-content: space-evenly;
         column-gap: normal;
