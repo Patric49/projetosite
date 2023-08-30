@@ -33,6 +33,7 @@ a:link {
     
     .arredondado {
         width: 80%;
+        display: block;
         justify-content: space-evenly;
     }
      
@@ -50,6 +51,7 @@ a:link {
     
     .arredondado {
          width: 80%;
+         display: block;
          justify-content: space-evenly;
     }
      
