@@ -21,37 +21,35 @@ a:link {
     text-decoration: none;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 767px) {
 
     .item {
         
-        width: 100%;
-        font-display: 100%;
+        width: 98%;
+        font-display: 50%;
         height: 70%;
             
     }
     
     .arredondado {
-        width: 70%;
-        display: block;
+        width: 59%;
         justify-content: space-evenly;
     }
      
 } 
 
-@media (max-width: 767px) {
+@media (max-width: 630px) {
 
     .item {
-        width: 100%;
-        font-display: 100%;
+        width: 98%;
+        font-display: 50%;
         height: 70%;
         
     }
     
     
     .arredondado {
-         width: 70%;
-         display: block;
+         width: 59%;
          justify-content: space-evenly;
     }
      
