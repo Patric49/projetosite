@@ -75,7 +75,8 @@ main {
      font-display: 50%;    
    }
      .container2 {
-      display:none;
+      display: block;
+      height: 80px;
    }
 main {
       display: none;
